@@ -1,0 +1,13 @@
+nav{
+    background-color: cadetblue;
+    color:black;
+    padding: 3px;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+li{
+    display: inline;
+    margin-left: 10px;
+}
